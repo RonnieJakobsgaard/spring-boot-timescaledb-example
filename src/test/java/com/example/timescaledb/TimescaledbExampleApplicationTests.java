@@ -1,4 +1,4 @@
-package com.example.timescaledb.timescaledb_example;
+package com.example.timescaledb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: timescaledb-example
+
+server:
+  port: 8080

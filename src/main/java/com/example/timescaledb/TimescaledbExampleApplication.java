@@ -1,4 +1,4 @@
-package com.example.timescaledb.timescaledb_example;
+package com.example.timescaledb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
